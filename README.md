@@ -8,6 +8,10 @@ I am currently focusing on learning python but I am also studying the basics of 
 - SQLite3, Flask-SQLAlchemy
 - HTML, CSS, Bootstrap
 
+## Projects
+- [Laagan: DIY Travel Planner] (https://github.com/eddie-mar/laagan.git)
+App to help user create travel itineraries and search popular attractions using google maps API 
+
 ## Contact
 - Email: eddiemar.gomez31@gmail.com
 - LinkedIn: https://www.linkedin.com/in/eddie-mar-gomez-853807227/
