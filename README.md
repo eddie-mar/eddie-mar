@@ -9,8 +9,7 @@ I am currently focusing on learning python but I am also studying the basics of 
 - HTML, CSS, Bootstrap
 
 ## Projects
-- [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)
-\nApp to help user create travel itineraries and search popular attractions using google maps API 
+- [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)<br>App to help user create travel itineraries and search popular attractions using google maps API 
 
 ## Contact
 - Email: eddiemar.gomez31@gmail.com
