@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi, I'm Eddie Mar
 
+I'm a licensed chemical engineer who is looking forward to shift career into software engineering.
+
+## Skills
+- Python, Flask, Numpy, Pandas, Matplotlib
+- SQLite3, Flask-SQLAlchemy
+- HTML, CSS, Bootstrap
+
+## Contact
+- Email: eddiemar.gomez31@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eddie-mar-gomez-853807227/
 <!--
 **eddie-mar/eddie-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
