@@ -10,7 +10,7 @@ I am currently focusing on learning python but I am also studying the basics of 
 
 ## Projects
 - [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)
-App to help user create travel itineraries and search popular attractions using google maps API 
+\nApp to help user create travel itineraries and search popular attractions using google maps API 
 
 ## Contact
 - Email: eddiemar.gomez31@gmail.com
