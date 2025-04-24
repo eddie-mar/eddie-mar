@@ -5,7 +5,7 @@ I am currently focusing on learning python and hoping to land a future in data s
 
 ## Skills
 - Python, Flask, Numpy, Pandas, Matplotlib
-- SQLite3, Flask-SQLAlchemy
+- SQLite, Flask-SQLAlchemy
 - HTML, CSS, Bootstrap
 
 ## Projects
