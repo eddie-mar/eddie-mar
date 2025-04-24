@@ -1,6 +1,6 @@
 ## Hi, I'm Eddie Mar
 
-I'm a licensed chemical engineer who is looking forward to shift career into software engineering.
+I'm a licensed chemical engineer who is looking forward to shift career into technology.
 I am currently focusing on learning python but I am also studying the basics of other computer science concepts.
 
 ## Skills
