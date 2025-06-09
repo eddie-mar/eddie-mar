@@ -1,11 +1,12 @@
 ## Hi, I'm Eddie Mar
 
 I'm a licensed chemical engineer who is looking forward to shift career into technology.
-I am currently focusing on learning python and hoping to land a future in data science.
+I am currently focusing on learning python and hoping to land a future in data engineering or science.
 
-## Skills
-- Python, Flask, Numpy, Pandas, Matplotlib
-- SQLite, Flask-SQLAlchemy
+## Skills/Tech
+- Python, Numpy, Pandas, Matplotlib
+- dbt, PySpark, Kestra, GCP
+- Flask, SQLAlchemy, Docker
 - HTML, CSS, Bootstrap
 
 ## Projects
