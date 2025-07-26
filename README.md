@@ -4,15 +4,15 @@ I'm a licensed chemical engineer who is looking forward to shift career into tec
 I am currently focusing on learning python and hoping to land a future in data engineering or science.
 
 ## Skills/Tech
-- Python, Numpy, Pandas, Matplotlib
-- dbt, PySpark, Kestra, GCP
+- Python, Numpy, Pandas, Matplotlib, Jupyter
+- dbt, Spark, Kestra, GCP
 - Flask, SQLAlchemy, Docker
 - HTML, CSS, Bootstrap
 
 ## Projects
 - [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)<br>App to help user create travel itineraries and search popular attractions using google maps API
 - [US Stocks Data Pipeline](https://github.com/eddie-mar/US-Blue-Chips-Stock-Market-Trends-and-Analysis.git)<br>Data pipeline for generating US Stocks data
-- [dbt-nyc-tripdata](https://github.com/eddie-mar/dbt-nyc-tripdata.git)<br>Created data models using dbt for nyc taxi trips data
+- [Earthquake Data Pipeline](https://github.com/eddie-mar/Earthquake-Data-Pipeline.git)<br>Data pipeline for Earthquake Data historical and per month
 
 ## Contact
 - Email: eddiemar.gomez31@gmail.com
