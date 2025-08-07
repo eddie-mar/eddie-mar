@@ -4,9 +4,9 @@ I'm a licensed chemical engineer who is looking forward to shift career into tec
 I am currently focusing on learning python and hoping to land a future in data engineering or science.
 
 ## Skills/Tech
-- Python, Numpy, Pandas, Matplotlib, Jupyter
-- dbt, Spark, Kestra, GCP
-- Flask, SQLAlchemy, Docker
+- Python, Numpy, Pandas, Jupyter
+- dbt, Spark, GCP, Docker, Terraform
+- Flask, SQLAlchemy, Postgres
 - HTML, CSS, Bootstrap
 
 ## Projects
