@@ -11,8 +11,8 @@ I am currently focusing on learning python and hoping to land a future in data e
 
 ## Projects
 - [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)<br>App to help user create travel itineraries and search popular attractions using google maps API
-- [US Stocks Data Pipeline](https://github.com/eddie-mar/US-Blue-Chips-Stock-Market-Trends-and-Analysis.git)<br>Data pipeline for generating US Stocks data
 - [Earthquake Data Pipeline](https://github.com/eddie-mar/Earthquake-Data-Pipeline.git)<br>Data pipeline for Earthquake Data historical and per month
+- [US Stocks Data Pipeline](https://github.com/eddie-mar/US-Blue-Chips-Stock-Market-Trends-and-Analysis.git)<br>Data pipeline for generating US Stocks data
 
 ## Contact
 - Email: eddiemar.gomez31@gmail.com
