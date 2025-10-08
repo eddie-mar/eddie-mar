@@ -35,7 +35,7 @@ def main(args):
                 idx += 1
                 tries = 0
         sys.stdout.write('\r' + final_message + char)
-        #sys.stdout.flush()
+        sys.stdout.flush()
         time.sleep(0.02)
 
 
