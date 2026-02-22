@@ -1,13 +1,13 @@
 ## Hi, I'm Eddie Mar
 
-I'm a licensed chemical engineer who is looking forward to shift career into technology.
-I am currently focusing on learning python and hoping to land a future in data engineering or science.
+I'm a data-driven software engineer with a unique background in Chemical engineering (Career Shifter).
+I am interested in data science and machine learning.
 
 ## Skills/Tech
-- Python, SQL, Git, Jupyter, WSL
-- dbt, Spark, GCP, Docker, Airflow, Power BI, Terraform
-- Pandas, Flask, SQLAlchemy, Postgres, BigQuery, BeautifulSoup
-- HTML, CSS, Bootstrap
+- Python, SQL, scikit-learn, scipy, Jupyter, Git, WSL
+- Regression, Naive Bayes, KMeans, Decision Tree, Random Forest, XGBoost, GridSearch
+- dbt, Spark, GCP, Docker, Airflow, Power BI, Tableau, Matplotlib, Seaborn, Terraform
+- Numpy, Pandas, Flask, SQLAlchemy, Postgres, BigQuery, BeautifulSoup
 
 ## Projects
 - [US Stocks Data Pipeline](https://github.com/eddie-mar/US-Blue-Chips-Stock-Market-Trends-and-Analysis.git)<br>Data pipeline for generating US Stocks data
