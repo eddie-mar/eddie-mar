@@ -1,6 +1,6 @@
 ## Hi, I'm Eddie Mar
 
-I'm a data-driven software engineer with a unique background in Chemical engineering (Career Shifter).
+I'm a data-driven software engineer with a unique background in chemical engineering (Career Shifter).
 I am interested in data science and machine learning.
 
 ## Skills/Tech
