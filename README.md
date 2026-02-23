@@ -4,7 +4,7 @@ I'm a data-driven software engineer with a unique background in chemical enginee
 I am interested in data science and machine learning.
 
 ## Skills/Tech
-- Python, SQL, scikit-learn, scipy, Jupyter, Git, WSL
+- Python, SQL, scikit-learn, scipy, Jupyter, Git, WSL, LangChain, RAG
 - Regression, Naive Bayes, KMeans, Decision Tree, Random Forest, XGBoost, GridSearch
 - dbt, Spark, GCP, Docker, Airflow, Power BI, Tableau, Matplotlib, Seaborn, Terraform
 - Numpy, Pandas, Flask, SQLAlchemy, Postgres, BigQuery, BeautifulSoup
