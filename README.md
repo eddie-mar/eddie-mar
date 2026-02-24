@@ -10,6 +10,7 @@ I am interested in data science and machine learning.
 - Numpy, Pandas, Flask, SQLAlchemy, Postgres, BigQuery, BeautifulSoup
 
 ## Projects
+- [Salifort Motors Employee Prediction](https://github.com/eddie-mar/Salifort-Motors-Employee-Turnover-Prediction-Model.git)<br>Data science project featuring machine learning models for predicting whether an employee will leave
 - [US Stocks Data Pipeline](https://github.com/eddie-mar/US-Blue-Chips-Stock-Market-Trends-and-Analysis.git)<br>Data pipeline for generating US Stocks data
 - [Earthquake Data Pipeline](https://github.com/eddie-mar/Earthquake-Data-Pipeline.git)<br>Data pipeline for Earthquake Data historical and per month
 - [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)<br>App to help user create travel itineraries and search popular attractions using google maps API
