@@ -11,6 +11,7 @@ I am interested in data science and machine learning.
 
 ## Projects
 - [Salifort Motors Employee Prediction](https://github.com/eddie-mar/Salifort-Motors-Employee-Turnover-Prediction-Model.git)<br>Data science project featuring machine learning models for predicting whether an employee will leave
+- [Customer Segmentation using RFM Analysis and KMeans Clustering](https://github.com/eddie-mar/Customer-Segmentation-KMeans-for-Online-Retail-Dataset)<br>Using unsupervised machine learning and rfm analysis to categorize customers from an online retail dataset
 - [US Stocks Data Pipeline](https://github.com/eddie-mar/US-Blue-Chips-Stock-Market-Trends-and-Analysis.git)<br>Data pipeline for generating US Stocks data
 - [Earthquake Data Pipeline](https://github.com/eddie-mar/Earthquake-Data-Pipeline.git)<br>Data pipeline for Earthquake Data historical and per month
 - [Laagan: DIY Travel Planner](https://github.com/eddie-mar/laagan.git)<br>App to help user create travel itineraries and search popular attractions using google maps API
